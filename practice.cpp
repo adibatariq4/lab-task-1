@@ -30,7 +30,7 @@ cout << "Stamp added! [" << stamps << "/10] for "
 if (stamps == 10) {
 totalFreeCofffees++;
 cout<< "Congratulations ^_^" << customerName <<endl;
-cout<< " You earned a free coffee! \n"; 
+cout<< " You have earned a free coffee! \n"; 
 cout<< " (Total rewards earned: " << totalFreeCofffees << ")" << endl;
 stamps = 0;
 }
